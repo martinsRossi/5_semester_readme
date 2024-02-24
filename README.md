@@ -49,5 +49,5 @@ https://github.com/naereen/badges -->
     <a href="#">Bem Vindo</a> | <a href="#">Bem Vindo</a> | <a href="#">Bem Vindo</a></li>
 </p> -->
 
-<h4>Status</h4>
-<h5>... :hammer: under construction</h5>
+<h4>:rocket: Status</h4>
+<h5>... :hammer: under construction</h5>g
