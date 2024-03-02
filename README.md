@@ -59,8 +59,8 @@ https://github.com/naereen/badges -->
 
 
 <h4>Features</h4>
-<!-- <input type="checkbox" onclick="return false;" checked="checked"/> Standard documentation of README <br>
-<input type="checkbox" onclick="return true;"checked="checked"/>Tips to adquire new badges -->
+<input type="checkbox" onclick="return false;" checked="checked"/> Standard documentation of README <br>
+<input type="checkbox" onclick="return true;"checked="checked"/>Tips to adquire new badges
 <p id="prerequisites"></p>
 <h4>Prerequisites</h4>
 
